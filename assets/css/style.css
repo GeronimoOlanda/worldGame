@@ -75,6 +75,13 @@ p {
     font-size: 16pt;
 
 }
+.item{
+    border: 1px solid white;
+    border-radius: 5px;
+    background-color:#948f8f;
+    opacity: 0.6;
+    box-shadow: #020202;
+}
 
 /* Final Conteudo Principal*/
 
