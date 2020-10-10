@@ -174,9 +174,13 @@ footer {
     border: 1px solid rgb(185, 0, 31);
     margin-top: 5%;
     padding-bottom: 5%;
+    
+
     font-weight: bold;
+
     justify-content: center;
     align-items: center;
+
     top: 0;
     bottom: 0;
 }
