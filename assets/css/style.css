@@ -58,7 +58,7 @@ a:hover {
 /* Final Configuração NavBar */
 
 /* Inicio Configuração Conteudo Principal */
-p {
+.p-element{
     font-weight: bold;
     text-align: center;
     color: white;
@@ -76,10 +76,9 @@ p {
 
 }
 .item{
-    border: 1px solid white;
-    border-radius: 5px;
-    background-color:#948f8f;
-    opacity: 0.6;
+   
+    
+   
     box-shadow: #020202;
 }
 
@@ -91,7 +90,7 @@ h3{
     color: #ffffff;
 }
 
-p{
+.p-element{
     font-weight: normal;
 }
 
@@ -111,15 +110,14 @@ p{
 }
 
 .item {
-   
-    
+
     margin-top: 300px;
     margin: 30px;
-     /*letter-spacing: .1rem;*/
+     letter-spacing: .1rem;
 	
-	text-align: center;
+	
     font-size: 1.5em;
-    
+    text-align: center;
     
 }
 
@@ -134,12 +132,36 @@ p{
 /*Inicio Secundario*/
 .secondary{
     border: 1px solid yellow;
-    margin-top: 8%;
+    margin-top: 10%;
     height: 600px;
     width: 100%;
 
 }
 
+.sidepicture-left{
+    display: flex;
+    position: relative;
+}
+.formatter-h2{  
+    position: relative;
+
+    padding-top: 10vh;
+
+    text-align: center;
+}
+
+
+.rightp-element{
+    /*border: 1px solid purple;*/
+    margin: -25% 0 0 50%;
+    text-align: justify;
+    
+    text-indent: 10%;  
+    line-height: 30px; /*Espaçamento entre as linhas*/
+    
+    width: 47%;
+
+}
 /*Final Secundario*/
 
 /*Inicio Configuração Footer */
