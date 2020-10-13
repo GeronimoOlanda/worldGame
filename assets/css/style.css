@@ -132,7 +132,7 @@ h3{
 
 /*Inicio Secundario*/
 .secondary{
-    border: 1px solid yellow;
+   
     margin-top: 5%;
     height: 600px;
     width: 100%;
@@ -213,7 +213,9 @@ footer {
 
     border: 1px solid rgb(185, 0, 31);
     margin-top: 5%;
+    padding-top:50px;
     padding-bottom: 5%;
+    
     
 
     font-size: 16px;
@@ -232,6 +234,10 @@ h6{
     line-height:20px;
 }
 .social-networks{
-   
+   border:1px solid black;
+   margin-top: -3em;
+   margin-left: 52em;
+   padding-top:1vh;
+   width: 400px;
 }
 /* Final COnfiguração Footer */
