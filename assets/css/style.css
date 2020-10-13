@@ -213,8 +213,8 @@ footer {
 
     border: 1px solid rgb(185, 0, 31);
     margin-top: 5%;
-    padding-top:50px;
-    padding-bottom: 5%;
+    padding-top:10px;
+    padding-bottom: 2%;
     
     
 
@@ -229,6 +229,7 @@ footer {
 h6{
     text-align: center;
 }
+
 
 .p-space{
     line-height:20px;
