@@ -235,6 +235,11 @@ h6{
     line-height:20px;
 }
 .social-networks{
+    display: flex;
+    
+}
+.social-networks{
+
    border:1px solid black;
    margin-top: -3em;
    margin-left: 52em;
