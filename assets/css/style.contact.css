@@ -21,3 +21,7 @@ textarea{
     height: 30vh;
     resize: none;
 }
+button{
+    width: 7em;
+    height: 6vh;
+}
