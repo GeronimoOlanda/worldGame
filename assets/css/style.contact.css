@@ -1,0 +1,23 @@
+*{
+    padding:0;
+    margin:0;
+    box-sizing: border-box;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+
+.container-contact{
+    margin-top: 10%;
+    margin-left: 40%;
+    line-height: 60px;
+}
+input , textarea{
+    outline: none;
+    border: 1px solid rgb(185, 184, 184);
+    border-radius: 5px;
+}
+textarea{
+    width: 50vh;
+    height: 30vh;
+    resize: none;
+}
