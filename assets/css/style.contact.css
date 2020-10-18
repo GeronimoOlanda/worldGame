@@ -25,6 +25,20 @@ textarea{
 }
 
 button{
+    
+    border: 1px solid transparent;
+    border-radius: 5px;
+    outline: none;
+
+    background: rgb(0, 153, 255);
+    color: #fff;
+
+    font-weight: 500;
     width: 7em;
     height: 6vh;
+
+    transition: all 0.2s ease;
+}
+button:hover{
+    background: rgb(21, 124, 192);
 }
