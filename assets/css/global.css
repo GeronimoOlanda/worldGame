@@ -29,6 +29,7 @@ textarea{
 button{
     
     border: 1px solid transparent;
+    border-bottom: 5px solid rgb(21, 124, 192);
     border-radius: 5px;
     outline: none;
 
