@@ -57,6 +57,27 @@ a:hover {
 /* Final Configuração NavBar */
 
 /* Inicio Configuração Conteudo Principal */
+h1{
+   
+    transition: all 0.3s ease;
+
+    outline: none;
+  
+   
+
+}
+h1:hover{
+    
+    color:#e74c3c;
+}
+.tratando-h1{
+    text-align: center;
+    
+    border-style: none;
+    text-decoration: none;
+    height: 10em;
+   
+}
 .p-element{
     font-weight: bold;
     text-align: center;
@@ -103,7 +124,6 @@ h3{
 .grid-auto-flow-1{
     grid-auto-flow: column;
 }
-
 .item {
 
     margin-top: 300px;
@@ -123,7 +143,7 @@ h3{
 
 /*Inicio Secundario*/
 .secondary{
-    margin-top: 5%;
+    margin-top: 10%;
     height: 600px;
     width: 100%;
 
