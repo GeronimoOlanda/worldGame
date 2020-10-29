@@ -21,9 +21,11 @@ input , textarea{
 }
 
 textarea{
-    width: 50vh;
-    height: 30vh;
+    width: 60vh;
+    height: 20vh;
     resize: none;
+    margin-top:1em;
+    margin-left: -9%;
 }
 
 button{
@@ -33,6 +35,8 @@ button{
     border-radius: 5px;
     outline: none;
 
+    margin-left: 11%;
+
     background: rgb(0, 153, 255);
     color: #fff;
 
@@ -40,6 +44,7 @@ button{
     width: 7em;
     height: 6vh;
 
+    
     transition: all 0.2s ease;
 }
 button:hover{
