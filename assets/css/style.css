@@ -246,6 +246,12 @@ h6{
     
 }
 
+.contact-information{
+    border: 1px solid blue;
+
+  
+    width: 500px;
+}
 .social-networks{
 
    border:1px solid black;
@@ -254,4 +260,5 @@ h6{
    padding-top:1vh;
    width: 400px;
 }
+
 /* Final COnfiguração Footer */
