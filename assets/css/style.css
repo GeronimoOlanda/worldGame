@@ -58,7 +58,7 @@ a:hover {
 
 /* Inicio Configuração Conteudo Principal */
 h1{
-   
+    
     transition: all 0.3s ease;
 
     outline: none;
@@ -90,7 +90,7 @@ h1:hover{
     position: relative;
     padding-top: 15%;
     color: white;
-
+    
     text-align: center;
     font-size: 16pt;
 }
@@ -142,7 +142,9 @@ h3{
 /* Final Grid Layout Grid*/
 
 /*Inicio Secundario*/
+
 .secondary{
+   
     margin-top: 10%;
     height: 600px;
     width: 100%;
