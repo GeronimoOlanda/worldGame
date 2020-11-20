@@ -25,15 +25,12 @@ input , textarea{
     border: 1px solid rgb(185, 184, 184);
     border-radius: 5px;
 }
-input:focus{
-    border-color: rgb(247, 111, 0);
-    border: 1px solid rgb(247, 111, 0);
+input:focus, textarea:focus{
+    border-color: rgb(0, 247, 111);
+    border: 2px solid rgb(0, 247, 111);
+    cursor: auto;
 }
-textarea:focus{
-    border-color: rgb(247, 111, 0);
-    border: 1px solid rgb(247, 111, 0);
-    
-}
+
 textarea{
     width: 60vh;
     height: 20vh;
