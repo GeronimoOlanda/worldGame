@@ -183,13 +183,14 @@ h3{
 
 /*Inicio Ultimo Elemento*/
 .lastElements{
-    
+    background: url('../img/games/bg-secondary.jpg');
     margin-top: 1%;
     padding-top: 10vh;
     text-align: center;
     
     width: 100%;
     height: 600px;
+  
     
 }
 .flex-container{
