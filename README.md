@@ -1,4 +1,4 @@
-### Desenvolvimento de um site basico com algumas das tecnologias do mercado.
+##### Desenvolvimento de um site basico com algumas das tecnologias do mercado.
 #### Sendo elas:
 * HTML5
 * CSS3
