@@ -214,6 +214,14 @@ h3{
  
     place-items: center;
 }
+
+.side-top{
+    margin-top: 53%;
+    color: white;
+    font-weight: 500;
+   margin-left: -95%;
+   font-size: 18px;
+}
 /* Verificar o problema com a inserção da classe .arrendoda-img e terminar o layout do flexbox*/
 img{
     
