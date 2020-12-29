@@ -4,3 +4,6 @@
 * CSS3
 * JavaScript(ES6)
 
+### Outros
+
+* Google Fonts.
