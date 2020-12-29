@@ -8,7 +8,6 @@
     text-decoration: none;
     font-family: 'Poppins', sans-serif;
     font-size: 16px;
-    
 }   
 
 form{
@@ -40,7 +39,6 @@ textarea{
 }
 
 button{
-    
     border: 1px solid transparent;
     border-bottom: 5px solid rgb(21, 124, 192);
     border-radius: 5px;
@@ -55,7 +53,6 @@ button{
     width: 7em;
     height: 6vh;
 
-    
     transition: all 0.2s ease;
 }
 button:hover{
